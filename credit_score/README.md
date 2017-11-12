@@ -1,5 +1,5 @@
 # Credit Score Predictor
-##Background 
+## Background 
 This dataset is from UCI ML Repository.
 
 It contains 20 features and the target is whether the customer is good or bad.
