@@ -9,10 +9,10 @@ This dataset is simple because there is no missing data, and most features can b
 
 ## Todos
 - [x] Preprocess the data
-- [] Split the data into training and testing set
-- []  Build a data pipeline for the network (even though this is really small dataset)
-- [] Build a NN using TF
-- [] Update this README with results
+- [ ] Split the data into training and testing set
+- [ ]  Build a data pipeline for the network (even though this is really small dataset)
+- [ ] Build a NN using TF
+- [ ] Update this README with results
 
 
 ## Citations and Links
